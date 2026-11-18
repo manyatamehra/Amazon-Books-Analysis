@@ -1,0 +1,5 @@
+The dataset contains 33,505 book records and 25,540 unique book titles.
+The average book price is ₹645.07, while the median price is ₹288.
+There are 8,666 zero-price records (25.86% of the dataset). These may represent missing or unreliable price data.
+The dataset contains 8,132 unique credited names, including authors, publishers and editorial boards.
+A total of 491 publication dates were flagged as suspicious and excluded from publication-year analysis.

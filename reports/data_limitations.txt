@@ -1,0 +1,7 @@
+The dataset does not contain a book category column, despite the Kaggle dataset title mentioning categories.
+Many author entries are missing or contain publisher and editorial-board names rather than individual authors.
+The Book_Rating column has unusually large values, and its exact meaning has not been independently verified.
+Some book prices are recorded as zero, and their actual meaning is uncertain.
+Some publication dates appear suspicious, including 491 flagged records.
+Repeated book titles may represent different editions or listings, so they were not automatically removed.
+The dataset may contain inaccurate or mismatched book metadata.
